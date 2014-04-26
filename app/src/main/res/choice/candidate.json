@@ -1,0 +1,15 @@
+{
+  "vote_id":"dlkafCfedasds", 
+  "vote_title": "Vote Title", 
+   "candidate": [{
+	"name": "Captain America",
+	"id": "1", 
+	"avatar":"content/captain_america"
+  },
+	 {
+	"name": "Winter Soldier",
+	"id": "2",
+	"avatar":"content/winter_soldier";
+  }]
+
+}
